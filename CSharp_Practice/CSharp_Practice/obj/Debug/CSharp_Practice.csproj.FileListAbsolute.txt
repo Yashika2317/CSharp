@@ -1,0 +1,7 @@
+C:\Users\yashikav\Desktop\CSharp\CSharp_Practice\CSharp_Practice\bin\Debug\CSharp_Practice.exe.config
+C:\Users\yashikav\Desktop\CSharp\CSharp_Practice\CSharp_Practice\bin\Debug\CSharp_Practice.exe
+C:\Users\yashikav\Desktop\CSharp\CSharp_Practice\CSharp_Practice\bin\Debug\CSharp_Practice.pdb
+C:\Users\yashikav\Desktop\CSharp\CSharp_Practice\CSharp_Practice\obj\Debug\CSharp_Practice.csproj.AssemblyReference.cache
+C:\Users\yashikav\Desktop\CSharp\CSharp_Practice\CSharp_Practice\obj\Debug\CSharp_Practice.csproj.CoreCompileInputs.cache
+C:\Users\yashikav\Desktop\CSharp\CSharp_Practice\CSharp_Practice\obj\Debug\CSharp_Practice.exe
+C:\Users\yashikav\Desktop\CSharp\CSharp_Practice\CSharp_Practice\obj\Debug\CSharp_Practice.pdb
